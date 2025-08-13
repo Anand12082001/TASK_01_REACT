@@ -26,3 +26,6 @@
 .product-card button:hover {
   background: darkgreen;
 }
+
+.add-to-cart-btn {
+  margin-top: auto;
